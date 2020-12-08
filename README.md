@@ -1,4 +1,7 @@
 # ant3-table-fix
+
+本案例背景为不能修改ant3-table的源码。并且不能升级ant4
+
 通过dom的方式解决ant-table3的问题。
 众所周知ant-design3的table问题多到官方都重构了。官方利用了粘性布局来解决了ant3表格的系列问题。
 但是如果你的项目不能够升级ant4，你ant3的table该如何修复呢？
